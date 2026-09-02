@@ -1,4 +1,3 @@
-<img width="800" height="297" alt="topvideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0b5d6dad-f843-49a7-ad0b-199bbd1716e9" />
 
 <!-- ![Screenshot from 2023-11-07 21-38-50-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/fbc90150-1c06-4993-9798-8a67ad535e5a) -->
 
