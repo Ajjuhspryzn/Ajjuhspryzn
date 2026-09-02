@@ -1,4 +1,7 @@
-
+<video width="100%" controls autoplay muted loop playsinline>
+  <source src=""C:\Users\ajjuh\Downloads\top video.mp4"" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <!-- ![Screenshot from 2023-11-07 21-38-50-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/fbc90150-1c06-4993-9798-8a67ad535e5a) -->
 
