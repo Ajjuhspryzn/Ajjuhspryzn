@@ -131,7 +131,28 @@ and much more...
 
 </details>
 
+## 🐍 My Contributions
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ajjuhspryzn/Ajjuhspryzn/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ajjuhspryzn/Ajjuhspryzn/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Ajjuhspryzn/Ajjuhspryzn/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+
+</div>
+
+> The snake animation is generated automatically from my GitHub contribution graph.
 
 <h2 id="Quotes" align=''>Quotes ✍🏻</h2>
 
