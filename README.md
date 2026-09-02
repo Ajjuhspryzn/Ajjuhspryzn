@@ -154,38 +154,12 @@ and much more...
 
 > The snake animation is generated automatically from my GitHub contribution graph.
 
-<h2 id="Quotes" align=''>Quotes ✍🏻</h2>
+<h2 id="Quotes">Quotes ✍🏻</h2>
 
+<!-- DAILY_QUOTE_START -->
 > “Do not be sorry. Be better.”  
 > — **Kratos | God of War**
-
-> “Death can have me when it earns me.”  
-> — **Kratos | God of War**
-
-> “Arise.”  
-> — **Sung Jinwoo | Solo Leveling**
-
-> “Surpass your limits.”  
-> — **Yami Sukehiro | Black Clover**
-
-> “Set your heart ablaze!”  
-> — **Kyojuro Rengoku | Demon Slayer**
-
-> “Throughout heaven and earth, I alone am the honored one.”  
-> — **Satoru Gojo | Jujutsu Kaisen**
-
-> “If you don’t fight, you can’t win!”  
-> — **Eren Yeager | Attack on Titan**
-
-> “Sometimes feelings are easier to hide in another language.”  
-> — **Alisa Kujou (Alya) | Alya Sometimes Hides Her Feelings in Russian**
-
-> “Dying to win and risking death to win are completely different.”  
-> — **Satoru Gojo | Jujutsu Kaisen**
-
-> “Do not seek strength. Build it.”  
-> — **Kratos | God of War**
----
+<!-- DAILY_QUOTE_END -->
 
 ### ⚔️ EQUIPMENT (Tech Stack)
 
