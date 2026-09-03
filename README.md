@@ -156,7 +156,7 @@ and much more...
 <h2 id="Quotes">Quotes ✍🏻</h2>
 
 <!-- DAILY_QUOTE_START -->
-> “Do not be sorry. Be better.”  
+> “Death can have me when it earns me.”  
 > — **Kratos | God of War**
 <!-- DAILY_QUOTE_END -->
 
