@@ -156,8 +156,8 @@ and much more...
 <h2 id="Quotes">Quotes ✍🏻</h2>
 
 <!-- DAILY_QUOTE_START -->
-> “Set your heart ablaze!”  
-> — **Kyojuro Rengoku | Demon Slayer**
+> “Throughout heaven and earth, I alone am the honored one.”  
+> — **Satoru Gojo | Jujutsu Kaisen**
 <!-- DAILY_QUOTE_END -->
 
 ## 🛠️ Tech Stack
