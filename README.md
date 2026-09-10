@@ -156,8 +156,8 @@ and much more...
 <h2 id="Quotes">Quotes ✍🏻</h2>
 
 <!-- DAILY_QUOTE_START -->
-> “Sometimes feelings are easier to hide in another language.”  
-> — **Alisa Kujou (Alya) | Alya Sometimes Hides Her Feelings in Russian**
+> “Dying to win and risking death to win are completely different.”  
+> — **Satoru Gojo | Jujutsu Kaisen**
 <!-- DAILY_QUOTE_END -->
 
 ## 🛠️ Tech Stack
