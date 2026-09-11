@@ -156,8 +156,8 @@ and much more...
 <h2 id="Quotes">Quotes ✍🏻</h2>
 
 <!-- DAILY_QUOTE_START -->
-> “Dying to win and risking death to win are completely different.”  
-> — **Satoru Gojo | Jujutsu Kaisen**
+> “Do not seek strength. Build it.”  
+> — **Kratos | God of War**
 <!-- DAILY_QUOTE_END -->
 
 ## 🛠️ Tech Stack
