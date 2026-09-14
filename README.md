@@ -156,8 +156,8 @@ and much more...
 <h2 id="Quotes">Quotes ✍🏻</h2>
 
 <!-- DAILY_QUOTE_START -->
-> “Death can have me when it earns me.”  
-> — **Kratos | God of War**
+> “Arise.”  
+> — **Sung Jinwoo | Solo Leveling**
 <!-- DAILY_QUOTE_END -->
 
 ## 🛠️ Tech Stack
