@@ -156,8 +156,8 @@ and much more...
 <h2 id="Quotes">Quotes ✍🏻</h2>
 
 <!-- DAILY_QUOTE_START -->
-> “If you don’t fight, you can’t win!”  
-> — **Eren Yeager | Attack on Titan**
+> “Sometimes feelings are easier to hide in another language.”  
+> — **Alisa Kujou (Alya) | Alya Sometimes Hides Her Feelings in Russian**
 <!-- DAILY_QUOTE_END -->
 
 ## 🛠️ Tech Stack
