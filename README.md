@@ -156,8 +156,8 @@ and much more...
 <h2 id="Quotes">Quotes ✍🏻</h2>
 
 <!-- DAILY_QUOTE_START -->
-> “Arise.”  
-> — **Sung Jinwoo | Solo Leveling**
+> “Surpass your limits.”  
+> — **Yami Sukehiro | Black Clover**
 <!-- DAILY_QUOTE_END -->
 
 ## 🛠️ Tech Stack
