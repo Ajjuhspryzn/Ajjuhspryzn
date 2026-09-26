@@ -156,8 +156,8 @@ and much more...
 <h2 id="Quotes">Quotes ✍🏻</h2>
 
 <!-- DAILY_QUOTE_START -->
-> “Surpass your limits.”  
-> — **Yami Sukehiro | Black Clover**
+> “Set your heart ablaze!”  
+> — **Kyojuro Rengoku | Demon Slayer**
 <!-- DAILY_QUOTE_END -->
 
 ## 🛠️ Tech Stack
