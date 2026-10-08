@@ -156,8 +156,8 @@ and much more...
 <h2 id="Quotes">Quotes ✍🏻</h2>
 
 <!-- DAILY_QUOTE_START -->
-> “Throughout heaven and earth, I alone am the honored one.”  
-> — **Satoru Gojo | Jujutsu Kaisen**
+> “If you don’t fight, you can’t win!”  
+> — **Eren Yeager | Attack on Titan**
 <!-- DAILY_QUOTE_END -->
 
 ## 🛠️ Tech Stack
